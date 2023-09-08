@@ -1,0 +1,444 @@
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+.c_padd {
+    padding-bottom: 30px;
+}
+/*header start*/
+header {
+    padding: 0;
+}
+.h1 {
+    font-size: 25px; 
+}
+.menu ul li a {
+    padding: 0 0 0 !important; 
+    text-align: right;
+} 
+/*header end*/
+/*slider start*/
+.s_text {
+    padding: 40px 0;
+}
+.s_h1 {
+    font-size: 28px;
+}
+.s_p {
+    margin: 15px 0;
+}
+/*slider end*/ 
+/*service start*/
+.s_title {
+    margin-bottom: 15px;
+}
+.c_pipe {
+    height: 20px;
+}
+.t_h1 {
+    font-size: 18px;
+}
+.ser_item {
+    margin-top: 45px;
+    padding: 50px 25px 25px;
+}
+.ser_h2 {
+    margin-top: 20px;
+    font-size: 18px;
+}
+.ser_pipe {
+    margin: 20px 115px;
+    width: 35px; 
+}
+/*service end*/ 
+ /*about start*/
+.about_text {
+    padding: 0;
+}
+.a_h1 {
+    margin-top: 10px;
+}
+.a_p {
+    margin: 15px 0;
+}
+/*about end*/ 
+/*recent start*/  
+.c_recent{ 
+	margin-top: 0px;
+    padding: 0 0px;
+}
+.cm_btn {
+    padding: 5px 14px; 
+    font-size: 6px;
+} 
+/*recent end*/
+/*choose start*/
+.ch_item {
+    margin-top: 15px;
+    text-align: center;
+}
+.ch_icon {
+    padding: 0 15px;
+    font-size: 30px;
+    margin-right: 0;
+}
+.ch_h2 {
+    padding: 0 70px 0;
+    font-size: 18px;
+    margin-top: 10px;
+}
+.ch_p {
+    margin: 15px 0;
+    padding: 0 25px;
+}
+/*choose end*/
+/*pricing start*/
+.pr_item {
+    margin-top: 20px;
+    padding-left: 40px;
+}
+.pr_item p {
+    margin: 15px 0;
+}
+.pr_item p span {
+    font-size: 20px;
+}
+.pr_item ul li {
+    margin-bottom: 10px;
+} 
+.pr_btn {
+    margin: 10px 0;
+    padding: 10px 20px;
+}  
+/*pricing end*/ 
+/*contact start*/
+.c_h1 {
+    margin: -11px auto 0;
+    padding-bottom: 20px;
+    width: 115px;
+    font-size: 18px;
+}
+.cus_f {
+    margin-bottom: 18px;
+}
+.cus_ff {
+    padding: 20px 0 40px;
+}
+.cus_btn {
+    margin: 20px 0;
+    width: 130px;
+    height: 40px;
+}
+/*contact end*/
+/*footer start*/
+.footer_top .f_p {
+    margin: 15px 0;
+}
+.s_title {
+    margin-bottom: 0px;
+}
+.footer_text p {
+    padding-right: 0px;
+}
+.f_icon ul li a {
+    margin-right: 28px;
+    font-size: 15px;
+}
+/*footer end*/    
+}
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) { 
+	/*common start*/
+.c_padd {
+    padding-bottom: 50px;
+}
+/*header start*/
+header {
+    padding: 10px 0 15px;
+}
+.h1 {
+    font-size: 30px; 
+}
+.menu ul li a {
+    padding: 0 0 0 !important; 
+    text-align: right;
+}
+/*header end*/
+/*slider start*/
+.s_text {
+    padding: 80px 0;
+}
+.s_h1 {
+    font-size: 37px;
+}
+.s_p {
+    margin: 25px 0;
+}
+/*slider end*/
+/*service start*/
+.s_title {
+    margin-bottom: 30px;
+}
+.c_pipe {
+    height: 30px;
+}
+.t_h1 {
+    font-size: 25px;
+}
+.ser_item {
+    margin-top: 40px;
+    padding: 50px 10px 20px;
+}
+.ser_h2 {
+    margin-top: 25px;
+    font-size: 25px;
+}
+.ser_pipe {
+    margin: 20px 90px;
+    width: 40px; 
+}
+
+/*service end*/
+/*about start*/
+.about_text {
+    padding: 0 20px;
+}
+.a_h1 {
+    margin-top: 20px;
+}
+.a_p {
+    margin: 15px 0;
+}
+/*about end*/
+/*recent start*/  
+.c_recent{ 
+	margin-top: 0px;
+    padding: 0 0px;
+}
+.cm_btn {
+    padding: 5px 12px; 
+} 
+/*recent end*/ 
+/*choose start*/
+.ch_item {
+    margin-top: 30px;
+    text-align: center;
+}
+.ch_icon {
+	font-size: 40px;
+    margin-right: 0;
+}
+.ch_h2 {
+    font-size: 25px;
+    margin-top: 15px; 
+}
+.ch_p {
+    margin: 25px 0;
+} 
+/*choose end*/
+/*pricing start*/
+.pr_item {
+    margin-top: 25px;
+    padding-left: 25px;
+}
+.pr_item p {
+    margin: 20px 0;
+}
+.pr_item ul li {
+    margin-bottom: 15px;
+} 
+.pr_btn {
+    margin: 15px 0;
+    padding: 10px 30px;
+}  
+/*pricing end*/ 
+/*buy start*/
+.b_now {
+    margin-bottom: 40px;
+    background-color: #f8f8f8;
+} 
+.buy_text p {
+    margin-top: 25px;
+} 
+.pr_btn {
+    margin: 15px 0;
+    padding: 10px 20px;
+}
+/*buy end*/
+/*contact start*/
+.c_h1 {
+    margin: -15px auto 0;
+    padding-bottom: 40px;
+    width: 160px;
+    font-size: 25px;
+}
+.cus_f {
+    margin-bottom: 25px;
+}
+.cus_ff {
+    padding: 25px 0 50px;
+}
+.cus_btn {
+	margin: 25px 0;
+    width: 150px;
+    height: 45px; 
+}
+/*contact end*/ 
+/*footer start*/
+.footer_top .f_p {
+    margin: 20px 0;
+}
+.s_title {
+    margin-bottom: 0px;
+}
+.footer_text p {
+    padding-right: 20px;
+}
+.f_menu ul li a {
+    margin-right: 0px;
+}
+/*footer end*/ 
+}
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+/*common start*/
+.c_padd {
+    padding-bottom: 70px;
+}
+/*header start*/
+.s_text {
+    padding: 100px 0;
+}
+.h1 {
+    font-size: 35px; 
+}
+.menu ul li a {
+    padding: 0 0 6px !important; 
+    text-align: right;
+}
+/*header end*/
+/*slider start*/
+.s_text {
+    padding: 150px 0;
+}
+.s_h1 {
+    font-size: 45px;
+}
+.s_p {
+    margin: 40px 0;
+}
+/*slider end*/
+/*service start*/
+.s_title {
+    margin-bottom: 45px;
+}
+.c_pipe {
+    height: 30px;
+}
+.t_h1 {
+    font-size: 25px;
+}
+.ser_item {
+    margin-top: 60px;
+    padding: 50px 10px 20px;
+}
+.ser_h2 {
+    margin-top: 30px;
+    font-size: 25px;
+}
+.ser_pipe {
+    margin: 20px 130px;
+    width: 40px; 
+}
+/*service end*/
+/*about start*/
+.about_text {
+    padding: 0 60px;
+}
+.a_h1 {
+    margin-top: 25px;
+}
+.a_p {
+    margin: 25px 0;
+}
+/*about end*/
+/*recent start*/  
+.c_recent{ 
+	margin-top: 20px;
+    padding: 0 74px;
+}
+/*recent end*/
+/*choose start*/
+.ch_item {
+    margin-top: 30px;
+    text-align: center;
+}
+.ch_icon {
+    margin-right: 0;
+}
+/*choose end*/
+/*pricing start*/
+.pr_item {
+    margin-top: 40px;
+    padding-left: 50px;
+}
+.pr_item p {
+    margin: 30px 0;
+}
+.pr_item ul li {
+    margin-bottom: 20px;
+} 
+.pr_btn {
+    margin: 20px 0;
+    padding: 10px 40px;
+} 
+/*pricing end*/
+/*slider2 start*/
+.l_p{
+	margin: 0;
+}
+.l_h2{
+	margin: 0;
+}
+/*slider2 end*/
+/*contact start*/
+.c_h1 {
+    padding-bottom: 60px;
+    width: 200px;
+    font-size: 30px;
+}
+/*contact end*/
+/*footer start*/
+.footer_top .f_p {
+    margin: 25px 0;
+}
+.s_title {
+    margin-bottom: 10px;
+}
+.footer_text p {
+    padding-right: 70px;
+}
+.f_menu ul li a {
+    margin-right: 0px;
+}
+/*footer end*/
+}
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+/*recent start*/  
+.c_recent{ 
+    padding: 0 194px;
+}
+.r_img {
+    margin-top: 20px;
+} 
+.p_img {
+    margin-top: 20px; 
+}
+/*recent end*/	
+}
+/* Large devices (desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) { 
+	
+}
+/* Extra large devices (large desktops, 1400px and up)*/ 
+@media (min-width: 1400px) {  
+}
